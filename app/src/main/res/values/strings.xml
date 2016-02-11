@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EyeBlink</string>
+    <string name="start_record">Record</string>
+    <string name="stop_record">stop</string>
+    <string name="face_position">FACE POSITION</string>
+
+</resources>
